@@ -76,7 +76,7 @@ Please add tehe Spring Milestone Repository to your build file to access the Spr
 
 The latter builds on top of mcp-core to provide some useful Spring AI abstractions, such as `McpFunctionCallback`. 
 
-Now create an `McpClient` to regester the MCP Brave server tools with your ChatClient and let the LLM call them:
+Now create an `McpClient` to register the MCP Brave server tools with your ChatClient and let the LLM call them:
 
 [source,java]
 ----
